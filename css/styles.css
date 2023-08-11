@@ -119,7 +119,14 @@ nav a:hover {
 
 .contact p {
     font-size: 18px;
+    line-height: 1.6;
     margin-bottom: 30px;
+}
+
+.contact p a {
+    color: gainsboro;
+    text-decoration: none;
+    margin-top: 5px;
 }
 
 footer {
